@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html> 
+
+<head>
+<center>
+<title>Tayvion</title>
+<style>
+section2 {
+	padding: 2px:
+	margin: 2px;
+	display: inline;
+	background: rgb(70, 70, 70);
+}
+footer {
+	background: rgb(62, 62, 62);
+	margin: 5px 20px 30px 20px;
+}
+a {
+	color: rgb(199, 197, 197);
+	text-decoration: none;
+}
+header {
+	background: rgb(70, 70, 70);
+	padding: 20px 30px;
+	width: 100;
+	flex-direction: row;
+}
+section {
+	background: rgb(58, 58, 58);
+	color: grey;
+	padding: 20%;
+	display: flex;
+	margin: auto;
+}
+div {
+	list-style:none;
+}
+ul
+{
+	display:inline;
+    padding:20px;
+    margin:0px;
+}
+li
+{
+    display:inline;
+    padding-left:14px;
+	list-type-style: none;
+}
+body {
+	background: rgb(58, 58, 58);
+	color: white;
+	font-family: Segoe UI, Segoe UI var, Helvetica Neue, Arial, Helvetica;
+	margin: 0;
+	padding: 0;
+}
+h1 {
+	color: rgb(0, 183, 255);
+	text-align: center;
+}
+h2 {
+	color: rgb(300, 300, 300);
+	opacity: 0.5;
+}
+button {
+	font-style: bold;
+	padding: 14px 28px;
+	font-size: 16px;
+	cursor: pointer;
+	background: purple;
+	border: none;
+	color: white;
+	border-radius: 6px;
+}
+</style>
+</head>
+
+<body>
+<header>
+<div>
+<nav>
+    <ul class="topnav">
+        <li><a href="Tayvion.html">HOME</a></li>
+        <li><a href="Locations.html">LOCATIONS</a></li>
+        <li><a href="Contact.html">CONTACT</a></li>
+    </ul>
+</nav>
+</div>
+</header>
+<h1>Contact</h1>
+<footer><h1>Hi! My name is Andrew Tay</h1>
+<p><h2>&<br><h1>This is an application for the position of fishmonger.</h1></h2></p>
+<h1><button type="button">Click here to learn more<a href="#middle"</a></button></h1>
+<p>Contact me</p>
+<p><a href="https://www.twitter.com"><img src="twitter (1).png" width="50" height="50" alt="Image folder"></a></p></footer>
+<section>
+<p><h2><ul>
+<p><h1><section2>Bio</section2></h1></p>
+	<li>
+	I'm a 19-year-old agriculture enthusiast.
+	I am currently enrolled at the University of Ghana, Legon, where I am pursuing a degree in agricultural engineering.
+	I'm currently building a man-made fish lagoon, which will be the first of its kind in my country.
+	</li>
+   </ul>
+</h2></p>
+</section>
+</body>
+</center>
+
+</html>
+ 

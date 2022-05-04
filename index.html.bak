@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html> 
+
+<head>
+<center>
+<title>Tayvionmixedit</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+<header>
+<div>
+<nav>
+    <ul class="topnav">
+        <li><a href="Tayvion.html">HOME</a></li>
+		<li><a href="Menu.html">SOUND KITS</a></li>
+		<li class="mobile"><a href="Locations.html">DISCOGRAPHY</a></li>
+        <li class="mobile"><a href="Contact.html">ABOUT</a></li>
+		<li class="logo"><a href="Tayvion.html">AQUABITAT LOGO</a></li>
+        <li class="desktop"><a href="Locations.html">DISCOGRAPHY</a></li>
+        <li class="desktop"><a href="Contact.html">ABOUT</a></li>
+    </ul>
+	<video autoplay loop muted plays-inline class="back-video">
+<source src="images/vid.mp4" type="video/mp4">
+</vide85
+</nav>
+</div>
+</header>
+<footer>
+<p>Contact</p>
+<p><a href="https://www.twitter.com"><img src="twitter (1).png" width="50" height="50" alt="Image folder"></a>
+<a href="https://www.instagram.com/cloudmushrooms"><img src="images/ig3.png" width="50" height="50" alt="Image folder"></a></p></footer>
+<section>
+<p><h2>
+	WEBSITE UNDER CONSTRUCTION.
+</h2></p>
+<section class="features">
+	<figure>
+		<img src="images/F1.jpg" width="60" height="160" alt="Nemo">
+	</figure>
+	<figure>
+		<img src="images/F2.jpg" width="60" height="160" alt="Swordfish">
+	</figure>
+	<figure>
+		<img src="images/F3.jpg" width="60" height="160" alt="A fish">
+	</figure>
+</section>
+</section>
+</body>
+</center>
+
+</html>
+ 
